@@ -1,0 +1,24 @@
+{
+  "name": "web2",
+  "version": "1.0.0",
+  "description": "web 2 van",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pmiguelbm/WEB2---dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pmiguelbm/WEB2---dev/issues"
+  },
+  "homepage": "https://github.com/Pmiguelbm/WEB2---dev#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "sqlite3": "^5.1.6"
+  }
+}
